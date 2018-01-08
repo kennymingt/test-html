@@ -1,0 +1,8 @@
+.article a {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+.article img {
+    width: 100%
+}
